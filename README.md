@@ -118,6 +118,7 @@ Variations is compatible with wordpress.org/patterns, giving you the ability to 
 
 = 1.0.0 =
 * Initial release
+* <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/884973be-b5b6-4a72-ad21-5853135c05cb" />
 
 == Copyright ==
 
